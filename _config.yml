@@ -219,11 +219,20 @@ content:
         link: 뭐야이게
         link_text: Link Text
         additional_links:
-          - title:  Notion
+          - title:  webrtc
+            icon: fab fa-link
             url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+            url_text: test
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: fab fa-link
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  webrtc
+            icon: test2
+            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+            url_text: test2
+          - title:  webrtc
+            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+            url_text: test3
         description: | # this will include new lines to allow paragraphs
           **사용 기술**
           JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
