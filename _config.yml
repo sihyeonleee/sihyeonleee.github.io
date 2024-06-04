@@ -338,12 +338,16 @@ content:
         caption: 2021. 08
         description: | # this will include new lines to allow paragraphs
           <h1>정보처리기사</h1>
+          ---
+          <img src="images/cert_infomation_engineer.png"></img>
       - layout: center
         title: 리눅스
         sub_title:  한국정보통신인력개발센터 
         caption: 2017. 04
         description: | # this will include new lines to allow paragraphs
           <h1>리눅스마스터 2급</h1>
+          ---
+          <img src="images/cert_linux_master.png"></img>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
