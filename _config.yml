@@ -291,18 +291,18 @@ content:
   - title: Certificate
     layout: list
     content:
-      - layout: left
+      - layout: center
         title: 기사
         sub_title: 한국산업인력공단
         caption: 2021. 08
         description: | # this will include new lines to allow paragraphs
-          #####정보처리기사
-      - layout: left
+          <h1>정보처리기사</h1>
+      - layout: center
         title: 리눅스
         sub_title:  한국정보통신인력개발센터 
         caption: 2017. 04
         description: | # this will include new lines to allow paragraphs
-          ##리눅스마스터 2급 
+          <h1>리눅스마스터 2급</h1>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
