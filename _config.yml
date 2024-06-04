@@ -216,10 +216,8 @@ content:
       - layout: left
         title: WebRTC 화상 회의 시스템
         caption: 개인프로젝트
-        link_text: Notion Link
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-notion
+          - title:  Notion
             url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
         description: | # this will include new lines to allow paragraphs
           **사용 기술**
