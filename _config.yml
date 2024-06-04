@@ -64,48 +64,32 @@ content:
     content:
       - layout: left
         border: weak
-        title: LG임원인사 검색 시스템
-        additional_links:
-          - title: 아이브릭스
-            icon: fab fa-github
-            url: http://github.com/example
+        title: 아이브릭스
         quote: >
-          LG 전체 임원대상 상세정보 검색 시스템 개발 유지보수
+          재직기간 : 2023. 06 ~ 재직중 / 직급 : 대리
         description: |
-          **재직 기간:** 
-          2023. 06 ~ 재직중
-
+          **프로젝트**: LG임원인사 검색 시스템
+          ---
           **주요 업무:** 
           빅데이터
-
+          
           **사용 도구:** 
           nodejs, elasticsearch, kibana, mssql
-
+          
           **참여 내용:**
           - windows 서버 nssm 서비스 등록 운영
           - mssql 데이터 elasticsearch 색인, 쿼리 작성
           - 필터링, 자동완성 검색을 위한 nodejs api 개발
           - 특수문자 및 다양한 검색기능 요구 개발
 
-      - layout: left
-        border: weak
-        title: 이용장벽없는 스마트전시관 챗봇 응답 시스템
-        additional_links:
-          - title: 아이브릭스
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          중앙박물관 및 기타 소속박물관 전시품 검색 응답 챗봇 개발
-        description: |
-          **재직 기간:** 
-          2023. 06 ~ 재직중
-
+          **프로젝트**: 이용장벽없는 스마트전시관 챗봇 응답 시스템
+          ---
           **주요 업무:** 
           빅데이터
-
+          
           **사용 도구:** 
           nodejs, ejs, react, typescript, nifi, elasticsearch, kibana, nginx
-
+          
           **참여 내용:**
           - node, ejs 기반 관리자 페이지 유지보수
           - react, typescript 기반 챗봇 화면 페이지 유지보수
@@ -116,72 +100,45 @@ content:
 
       - layout: left
         border: weak
-        title: 인사혁신처 발주 인재개발 플랫폼 3단계 구축
-        additional_links:
-          - title: 피씨엔
-            icon: fab fa-github
-            url: http://github.com/example
+        title: 피씨엔
         quote: >
-          정부, 민간인의 학습콘텐츠 집약 사이트 및 개방형 공무원 학습 플랫폼
+          재직기간 : 2022. 10 ~ 2023. 05 / 직급 : 대리 팀원
         description: |
-          **재직 기간:** 
-          2022. 10 ~ 2023. 05 (8개월)
-
+          **프로젝트**: 인사혁신처 발주 인재개발 플랫폼 3단계 구축
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, cubrid, git(issues), jenkins, jboss, bandisso, 웹스퀘어
-
+          
           **참여 내용:**
           - bix5 대시보드 솔루션 활용 대시보드 개발
           - 클라이언트, 서버 버전별 통계데이터 도식화
           - 관리자 권한별 통계 적용
           - poi 엑셀다운로드 (디자인 포함된 엑셀 시트 구성)
 
-      - layout: left
-        border: weak
-        title: 인사혁신처 발주 인재개발 플랫폼 유지보수
-        additional_links:
-          - title: 피씨엔
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          정부, 민간인의 학습콘텐츠 집약 사이트 및 개방형 공무원 학습 플랫폼 유지보수
-        description: |
-          **재직 기간:** 
-          2022. 10 ~ 2023. 05 (8개월)
-
+          **프로젝트**: 인사혁신처 발주 인재개발 플랫폼 유지보수
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, cubrid, git(issues), jenkins, jboss, bandisso
-
+          
           **참여 내용:**
           - 유료 컨텐츠 결제 시스템 재적용
           - 강의 학습 완료에 따른 관리자 정산 및 재구매 프로세스 적용
           - kginicis 모듈 결제 및 취소, 환불 규정 준수
 
-      - layout: left
-        border: weak
-        title: 3D 상상포털 사이트 게시판 공통게시판 구축
-        additional_links:
-          - title: 피씨엔
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          프린팅 서비스 및 콘텐츠 등을 공유하는 3D프린팅 종합정보포털
-        description: |
-          **재직 기간:** 
-          2022. 10 ~ 2023. 05 (8개월)
-
+          **프로젝트**: 3D 상상포털 사이트 게시판 공통게시판 구축
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, mariadb, svn, tomcat
-
+          
           **참여 내용:**
           - 공통게시판 구축: 게시판 특성에 따른 암호화, 파일업로드, FAQ, 답변형, 댓글형, 마크업 에디터 적용
           - 타일즈 레이아웃 구성
@@ -190,92 +147,54 @@ content:
 
       - layout: left
         border: weak
-        title: EBS SW온라인 교육 플랫폼
-        additional_links:
-          - title: 유비온
-            icon: fab fa-github
-            url: http://github.com/example
+        title: 유비온
         quote: >
-          초중고 대상 온라인 코딩 교육 플랫폼
+          재직기간 : 2019. 01 ~ 2022. 04 / 직급 : 대리
         description: |
-          **재직 기간:** 
-          2019. 01 ~ 2022. 04 (3년 4개월)
-
+          **프로젝트**: EBS SW온라인 교육 플랫폼
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, nodeJs, ejs, redis, mysql, svn, docker, jboss
-
+          
           **참여 내용:**
           - webRTC, coturn 활용 화상 및 화면 공유, 문서 공유, 파일 공유 개발
           - aceditor, docker 활용 온라인 코딩 개발
           - socketio, redis 활용 실시간 채팅 프로그램 개발
 
-      - layout: left
-        border: weak
-        title: EBS SW온라인 클래스 - COVID19 대응 TF
-        additional_links:
-          - title: 유비온
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          초중고 대상 온라인 수업교실 (영상 학습, 과제, 설문, 출석)
-        description: |
-          **재직 기간:** 
-          2019. 01 ~ 2022. 04 (3년 4개월)
-
+          **프로젝트**: EBS SW온라인 클래스 - COVID19 대응 TF
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, mysql, git, docker, jboss
-
+          
           **참여 내용:**
           - 100DB 셋 통계 집계 java app 개발 (로그 데이터 분석)
           - 고객 불만 사항 QA 대응 (시스템 오류, 잘못된 학습 방법 등 원인 분석)
           - long time query 튜닝
 
-      - layout: left
-        border: weak
-        title: 거점국립대학 학점 교류 시스템(KERIS)
-        additional_links:
-          - title: 유비온
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          국립대학 간 원격수업 학점교류 공동 운영체제
-        description: |
-          **재직 기간:** 
-          2019. 01 ~ 2022. 04 (3년 4개월)
-
+          **프로젝트**: 거점국립대학 학점 교류 시스템(KERIS)
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           java, jsp, svn, tomcat, mysql
-
+          
           **참여 내용:**
           - jsp 화면 및 백엔드 개발
           - 사이트 리뉴얼 디자인 적용
           - i18n 다국어 적용 (한, 중, 일, 영)
 
-      - layout: left
-        border: weak
-        title: LMS 교육 플랫폼 Hydee
-        additional_links:
-          - title: 유비온
-            icon: fab fa-github
-            url: http://github.com/example
-        quote: >
-          초중고 대상 온라인 수업교실 통합 플랫폼
-        description: |
-          **재직 기간:** 
-          2019. 01 ~ 2022. 04 (3년 4개월)
-
+          **프로젝트**: LMS 교육 플랫폼 Hydee
+          ---
           **주요 업무:** 
           웹개발자
-
+          
           **사용 도구:** 
           nodeJs, redis, mysql, git, jenkins, kubernetes, msa, multitenant
           
