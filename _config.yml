@@ -159,16 +159,16 @@ content:
         description: |
           **1. 프로젝트**: EBS SW온라인 교육 플랫폼
           ---
-          **주요 업무:** 
+          - **주요 업무:** 
           웹개발자
           
-          **사용 도구:** 
+          - **사용 도구:** 
           java, jsp, nodeJs, ejs, redis, mysql, svn, docker, jboss
           
-          **참여 내용:**
-          - webRTC, coturn 활용 화상 및 화면 공유, 문서 공유, 파일 공유 개발
-          - aceditor, docker 활용 온라인 코딩 개발
-          - socketio, redis 활용 실시간 채팅 프로그램 개발
+          - **참여 내용:**
+            1. webRTC, coturn 활용 화상 및 화면 공유, 문서 공유, 파일 공유 개발
+            2. aceditor, docker 활용 온라인 코딩 개발
+            3. socketio, redis 활용 실시간 채팅 프로그램 개발
 
           **2. 프로젝트**: EBS SW온라인 클래스 - COVID19 대응 TF
           ---
@@ -246,11 +246,9 @@ content:
           CBOW(Continuous Bag of Words) 알고리즘을 구현하여 대규모 텍스트 데이터로부터 단어 벡터를 학습하고
           사용자 입력에 대한 데이터와 유사한 데이터를 코사인유사도를 통해 얻을수있다.
 
-          **Link 1:**
-          
-          https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74
-
-          https://canyon-nickel-820.notion.site/javascript-word2vector-CBOW-9a038ab814684e7ba1419cdaff2fb56b?pvs=74
+          **Link:**
+          - https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74
+          - https://canyon-nickel-820.notion.site/javascript-word2vector-CBOW-9a038ab814684e7ba1419cdaff2fb56b?pvs=74
 
       - layout: left
         title: Elasticsearch 기능 확장
