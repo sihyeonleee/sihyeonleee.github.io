@@ -228,7 +228,7 @@ content:
           이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
 
           **Link :**
-          https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+          <a href="https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74">[notion] webrtc</a>
 
       - layout: left
         title: 단어예측(유사검색) 프로그램
@@ -247,8 +247,8 @@ content:
           사용자 입력에 대한 데이터와 유사한 데이터를 코사인유사도를 통해 얻을수있다.
 
           **Link :**
-          - https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74
-          - https://canyon-nickel-820.notion.site/javascript-word2vector-CBOW-9a038ab814684e7ba1419cdaff2fb56b?pvs=74
+          - <a href="https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74">[notion] skip-gram</a>
+          - <a href="https://canyon-nickel-820.notion.site/javascript-word2vector-CBOW-9a038ab814684e7ba1419cdaff2fb56b?pvs=74">[notion] cbow</a>
 
       - layout: left
         title: Elasticsearch 기능 확장
@@ -266,7 +266,7 @@ content:
           효율적으로 인덱싱하고 검색할 수 있는 새로운 방법을 제공합니다.
 
           **Link :**
-          https://canyon-nickel-820.notion.site/Elasticsearch-plugin-86de562db42d4468b8cadfb8ac37dc44?pvs=74
+          <a href="https://canyon-nickel-820.notion.site/Elasticsearch-plugin-86de562db42d4468b8cadfb8ac37dc44?pvs=74">[notion] elasticsearch plugin</a>
 
       - layout: left
         title: 파일 관리 프로그램
@@ -286,7 +286,7 @@ content:
           만들어진 프로젝트로 개인 업무향상을 위해 만든 프로그램입니다.
 
           **Link :**
-          https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true
+          <a href="https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true">[notion] file manager</a>
 
   - title: Certificate
     layout: list
@@ -296,13 +296,13 @@ content:
         sub_title: 한국산업인력공단
         caption: 2021. 08
         description: | # this will include new lines to allow paragraphs
-          정보처리기사
+          #####정보처리기사
       - layout: left
         title: 리눅스
         sub_title:  한국정보통신인력개발센터 
         caption: 2017. 04
         description: | # this will include new lines to allow paragraphs
-          리눅스마스터 2급 
+          ##리눅스마스터 2급 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
