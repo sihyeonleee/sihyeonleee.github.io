@@ -210,7 +210,7 @@ content:
             3. socketio, redis 활용 실시간 퀴즈풀이 개발
             4. 전반적인 코어단과 온라인 교육의 핵심인 수업설계 개발
 
-  - title: Private Projects
+  - title: Portfolio
     layout: list
     content:
       - layout: left
@@ -288,17 +288,21 @@ content:
           **Link :**
           https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true
 
-  - title: Education
+  - title: Certificate
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: 기사
+        sub_title: 한국산업인력공단
+        caption: 2021. 08
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          정보처리기사
+      - layout: left
+        title: 리눅스
+        sub_title:  한국정보통신인력개발센터 
+        caption: 2017. 04
+        description: | # this will include new lines to allow paragraphs
+          리눅스마스터 2급 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -326,11 +330,11 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request (Override references text)
+# references_title: References on request (Override references text)
 
 # Build settings
-theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
