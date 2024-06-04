@@ -333,13 +333,13 @@ content:
     layout: list
     content:
       - layout: center
-        title: 기사
+        title: 정보처리기사
         sub_title: 한국산업인력공단
         caption: 2021. 08
         description: | # this will include new lines to allow paragraphs
           <h1>정보처리기사</h1>
           ---
-          <img src="images/cert_infomation_engineer.png"></img>
+          <img width="300px" height="500px" src="images/cert_infomation_engineer.png">
       - layout: center
         title: 리눅스
         sub_title:  한국정보통신인력개발센터 
@@ -347,7 +347,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <h1>리눅스마스터 2급</h1>
           ---
-          <img src="images/cert_linux_master.png"></img>
+          <img width="300px" height="500px" src="images/cert_linux_master.png">
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
