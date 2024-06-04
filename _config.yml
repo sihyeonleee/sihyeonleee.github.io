@@ -6,7 +6,7 @@ repository: sihyeonleee/sihyeonleee.github.io
 version: 2
 
 # Personal info
-name: 이시현 - Si Hyeon Lee
+name: 이시현 - si hyeon lee
 title: 1993. 05. 08 Web Developer
 email: dltlgus313@naver.com
 # email_title: Email (Email title override)
@@ -57,11 +57,12 @@ about_content: | # this will include new lines to allow paragraphs
     여깁니다. 다양한 사람들과의 교류를 통해 얻는 에너지와 혼자 있는 시간 동안
     의 깊은 사고가 제 삶을 균형 있게 만들어줍니다. 이러한 성향은 제 업무와 개인
     생활 모두에 긍정적인 영향을 미칩니다.
-    ---
+    <div>
     JAVA Spring JSP
     Node.js Express React Javascript
     RDBMS Nifi Elasticsearch
     Git SVN 
+    </div>
 content:
   - title: Background
     layout: list
