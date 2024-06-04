@@ -216,35 +216,77 @@ content:
       - layout: left
         title: WebRTC 화상 회의 시스템
         caption: 개인프로젝트
-        link: 뭐야이게
-        link_text: Link Text
-        additional_links:
-          - title:  webrtc
-            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
-            text: test
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-link
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  webrtc
-            icon: test2
-            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
-            url_text: test2
-          - title:  webrtc
-            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
-            url_text: test3
         description: | # this will include new lines to allow paragraphs
           **사용 기술**
           JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
 
           **주요 기능 :**
-          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
-
-          **기술 스택:** 
-          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+          p2p 실시간 통신, 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
 
           **상세 설명**
           WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
           이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
+
+          **Notion Link**
+          https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+
+      - layout: left
+        title: Skip-gram 및 CBOW 모델
+        caption: 개인프로젝트
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          Node.js, JavaScript, Express
+
+          **주요 기능 :**
+          대규모 텍스트 데이터 전처리 및 Skip-gram 및 CBOW 알고리즘 구현, 
+          입력된 단어 및 문장에 대한 유사한 단어를 예측
+
+          **상세 설명**
+          자연어 처리(NLP) 작업의 일환으로, Word2Vec 모델을 사용하여 단어 임베딩을 생성, Skip-gram과 
+          CBOW(Continuous Bag of Words) 알고리즘을 구현하여 대규모 텍스트 데이터로부터 단어 벡터를 학습하고
+          사용자 입력에 대한 데이터와 유사한 데이터를 코사인유사도를 통해 얻을수있다.
+
+          **Notion Link**
+          skip-gram : https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74
+          cbow : https://canyon-nickel-820.notion.site/javascript-word2vector-CBOW-9a038ab814684e7ba1419cdaff2fb56b?pvs=74
+
+      - layout: left
+        title: Elasticsearch 플러그인
+        caption: 개인프로젝트
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          Java, Elasticsearch, Maven
+
+          **주요 기능 :**
+          색인 대상에 대한 텍스트 필터링 및 토큰화, REST API
+
+          **상세 설명**
+          Elasticsearch의 기능을 확장하기 위해 커스텀 플러그인을 개발했습니다. 
+          이 플러그인은 특정 요구 사항에 맞춘 검색 기능을 추가하거나, 데이터를 
+          효율적으로 인덱싱하고 검색할 수 있는 새로운 방법을 제공합니다.
+
+          **Notion Link**
+          https://canyon-nickel-820.notion.site/Elasticsearch-plugin-86de562db42d4468b8cadfb8ac37dc44?pvs=74
+
+      - layout: left
+        title: 파일관리 시스템
+        caption: 개인프로젝트
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          JAVA ( thread, jni , jwt, google drive api )
+
+          **주요 기능 :**
+          파일및 폴더를 lnk 복사 하여 기존파일의 위치, 파일명, 내용 변경에 영향을 받지 않으며,
+          태그, 날짜, 체크리스트(색상) 을 구분하여 사용자가 인식하는 파일에 빠르게 접근가능.
+          google drive api 를 사용하여 저장소에 최신버전이 있을경우 자동 다운로드기능 제공.
+
+          **상세 설명**
+          프로젝트마다 복잡한 디렉터리 구조를 파악하기 곤란한 상황에
+          태그, 날짜, 체크리스트 검색으로 파일이나 폴더에 빠르게 엑세스를 하기위해
+          만들어진 프로젝트로 개인 업무향상을 위해 만든 프로그램입니다.
+
+          **Notion Link**
+          https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true
 
   - title: Education
     layout: list
