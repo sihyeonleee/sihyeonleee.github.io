@@ -70,35 +70,35 @@ content:
         quote: >
           Elasticsearch 검색 개발
         description: |
-          **1. 프로젝트**: LG임원인사 검색 시스템
+          **1. LG임원인사 검색 시스템**
           ---
-          **주요 업무:** 
+          - **주요 업무:** 
           빅데이터
           
-          **사용 도구:** 
+          - **사용 도구:** 
           nodejs, elasticsearch, kibana, mssql
           
-          **참여 내용:**
-          - windows 서버 nssm 서비스 등록 운영
-          - mssql 데이터 elasticsearch 색인, 쿼리 작성
-          - 필터링, 자동완성 검색을 위한 nodejs api 개발
-          - 특수문자 및 다양한 검색기능 요구 개발
+          - **참여 내용:**
+            1. windows 서버 nssm 서비스 등록 운영
+            2. mssql 데이터 elasticsearch 색인, 쿼리 작성
+            3. 필터링, 자동완성 검색을 위한 nodejs api 개발
+            4. 특수문자 및 다양한 검색기능 요구 개발
           
-          **2. 프로젝트**: 이용장벽없는 스마트전시관 챗봇 응답 시스템
+          **2. 이용장벽없는 스마트전시관 챗봇 응답 시스템**
           ---
-          **주요 업무:** 
+          - **주요 업무:** 
           빅데이터
           
-          **사용 도구:** 
+          - **사용 도구:** 
           nodejs, ejs, react, typescript, nifi, elasticsearch, kibana, nginx
           
-          **참여 내용:**
-          - node, ejs 기반 관리자 페이지 유지보수
-          - react, typescript 기반 챗봇 화면 페이지 유지보수
-          - 시스템 유지관리를 위한 els meta 데이터 migration 프로세스 개발
-          - Apache nifi 활용 데이터 색인 자동화 (스케줄링)
-          - Google API - Translate, STT, TTS 적용 (단어 교정집 활용 세밀 조정) ≫ Naver Clova TTS 교체 적용
-          - 리액트 화면 무중단 배포 설정
+          - **참여 내용:**
+            1. node, ejs 기반 관리자 페이지 유지보수
+            2. react, typescript 기반 챗봇 화면 페이지 유지보수
+            3. 시스템 유지관리를 위한 els meta 데이터 migration 프로세스 개발
+            4. Apache nifi 활용 데이터 색인 자동화 (스케줄링)
+            5. Google API - Translate, STT, TTS 적용 (단어 교정집 활용 세밀 조정) ≫ Naver Clova TTS 교체 적용
+            6. 리액트 화면 무중단 배포 설정
 
       - layout: left
         border: weak
@@ -108,7 +108,7 @@ content:
         quote: >
           Java Spring 웹개발
         description: |
-          **1. 프로젝트**: 인사혁신처 발주 인재개발 플랫폼 3단계 구축
+          **1. 인사혁신처 발주 인재개발 플랫폼 3단계 구축**
           ---
           - **주요 업무:** 
           웹개발자
@@ -122,7 +122,7 @@ content:
             3. 관리자 권한별 통계 적용
             4. poi 엑셀다운로드 (디자인 포함된 엑셀 시트 구성)
 
-          **2. 프로젝트**: 인사혁신처 발주 인재개발 플랫폼 유지보수
+          **2. 인사혁신처 발주 인재개발 플랫폼 유지보수**
           ---
           - **주요 업무:** 
           웹개발자
@@ -135,7 +135,7 @@ content:
             2. 강의 학습 완료에 따른 관리자 정산 및 재구매 프로세스 적용
             3. kginicis 모듈 결제 및 취소, 환불 규정 준수
 
-          **3. 프로젝트**: 3D 상상포털 사이트 게시판 공통게시판 구축
+          **3. 3D 상상포털 사이트 게시판 공통게시판 구축**
           ---
           - **주요 업무:** 
           웹개발자
@@ -157,7 +157,7 @@ content:
         quote: >
           Java Spring, NodeJs 웹개발
         description: |
-          **1. 프로젝트**: EBS SW온라인 교육 플랫폼
+          **1. EBS SW온라인 교육 플랫폼**
           ---
           - **주요 업무:** 
           웹개발자
@@ -170,7 +170,7 @@ content:
             2. aceditor, docker 활용 온라인 코딩 개발
             3. socketio, redis 활용 실시간 채팅 프로그램 개발
 
-          **2. 프로젝트**: EBS SW온라인 클래스 - COVID19 대응 TF
+          **2. EBS SW온라인 클래스 - COVID19 대응 TF**
           ---
           - **주요 업무:** 
           웹개발자
@@ -183,7 +183,7 @@ content:
             2. 고객 불만 사항 QA 대응 (시스템 오류, 잘못된 학습 방법 등 원인 분석)
             3. long time query 튜닝
 
-          **3. 프로젝트**: 거점국립대학 학점 교류 시스템(KERIS)
+          **3. 거점국립대학 학점 교류 시스템(KERIS)**
           ---
           - **주요 업무:** 
           웹개발자
@@ -196,7 +196,7 @@ content:
             2. 사이트 리뉴얼 디자인 적용
             3. i18n 다국어 적용 (한, 중, 일, 영)
 
-          **4. 프로젝트**: LMS 교육 플랫폼 Hydee
+          **4. LMS 교육 플랫폼 Hydee**
           ---
           - **주요 업무:** 
           웹개발자
