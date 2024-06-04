@@ -58,10 +58,10 @@ about_content: | # this will include new lines to allow paragraphs
     의 깊은 사고가 제 삶을 균형 있게 만들어줍니다. 이러한 성향은 제 업무와 개인
     생활 모두에 긍정적인 영향을 미칩니다.
     <div>
-    JAVA Spring JSP
-    Node.js Express React Javascript
-    RDBMS Nifi Elasticsearch
-    Git SVN 
+      <mark>JAVA</mark><mark>Spring</mark><mark>JSP</mark>
+      <mark>Node.js</mark><mark>Express</mark><mark>React</mark><mark>Javascript</mark>
+      <mark>RDBMS</mark><mark>Nifi</mark><mark>Elasticsearch</mark>
+      <mark>Git</mark><mark>SVN</mark>
     </div>
 content:
   - title: Background
