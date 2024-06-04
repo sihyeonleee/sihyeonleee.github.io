@@ -124,7 +124,7 @@ content:
     layout: list
     content:
       - layout: left
-        # border: weak
+        border: weak
         title: I-Bricks
         sub_title: 지능정보개발본부 대리
         caption: 2023. 06 ~ 재직중
@@ -162,7 +162,7 @@ content:
             6. 리액트 화면 무중단 배포 설정
 
       - layout: left
-        # border: weak
+        border: weak
         title: PCN
         sub_title: dv실 대리
         caption: 2022. 10 ~ 2023. 05
