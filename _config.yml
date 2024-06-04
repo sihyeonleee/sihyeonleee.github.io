@@ -84,7 +84,6 @@ content:
           - 필터링, 자동완성 검색을 위한 nodejs api 개발
           - 특수문자 및 다양한 검색기능 요구 개발
           
-          ======
           **2. 프로젝트**: 이용장벽없는 스마트전시관 챗봇 응답 시스템
           ---
           **주요 업무:** 
@@ -123,7 +122,6 @@ content:
           - 관리자 권한별 통계 적용
           - poi 엑셀다운로드 (디자인 포함된 엑셀 시트 구성)
 
-          ======
           **2. 프로젝트**: 인사혁신처 발주 인재개발 플랫폼 유지보수
           ---
           **주요 업무:** 
@@ -137,7 +135,6 @@ content:
           - 강의 학습 완료에 따른 관리자 정산 및 재구매 프로세스 적용
           - kginicis 모듈 결제 및 취소, 환불 규정 준수
 
-          ======
           **3. 프로젝트**: 3D 상상포털 사이트 게시판 공통게시판 구축
           ---
           **주요 업무:** 
@@ -173,7 +170,6 @@ content:
           - aceditor, docker 활용 온라인 코딩 개발
           - socketio, redis 활용 실시간 채팅 프로그램 개발
 
-          ======
           **2. 프로젝트**: EBS SW온라인 클래스 - COVID19 대응 TF
           ---
           **주요 업무:** 
@@ -187,7 +183,6 @@ content:
           - 고객 불만 사항 QA 대응 (시스템 오류, 잘못된 학습 방법 등 원인 분석)
           - long time query 튜닝
 
-          ======
           **3. 프로젝트**: 거점국립대학 학점 교류 시스템(KERIS)
           ---
           **주요 업무:** 
@@ -201,7 +196,6 @@ content:
           - 사이트 리뉴얼 디자인 적용
           - i18n 다국어 적용 (한, 중, 일, 영)
 
-          ======
           **4. 프로젝트**: LMS 교육 플랫폼 Hydee
           ---
           **주요 업무:** 
@@ -216,18 +210,91 @@ content:
           - socketio, redis 활용 실시간 퀴즈풀이 개발
           - 전반적인 코어단과 온라인 교육의 핵심인 수업설계 개발
 
-  - title: Experience
+  - title: Skills
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: WebRTC 화상 회의 시스템
+        sub_title: WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
+        이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
+        caption: 개인프로젝트
+        link: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          **사용 기술**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **기술 스택:** 
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+      - layout: left
+
+        title: Skip-gram 및 CBOW
+        sub_title: 자연어 처리(NLP) 작업의 일환으로, Word2Vec 모델을 사용하여 단어 임베딩을 생성했습니다. 
+        Skip-gram과 CBOW(Continuous Bag of Words) 알고리즘을 구현하여 대규모 텍스트 데이터로부터 단어 벡터를 학습했습니다.
+        caption: 개인프로젝트
+        link: https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **기술 스택:** 
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+      - layout: left
+        title: WebRTC 화상 회의 시스템
+        sub_title: WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
+        이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
+        caption: 개인프로젝트
+        link: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **기술 스택:** 
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+      - layout: left
+        title: WebRTC 화상 회의 시스템
+        sub_title: WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
+        이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
+        caption: 개인프로젝트
+        link: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **기술 스택:** 
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          
+      - layout: left
+        title: WebRTC 화상 회의 시스템
+        sub_title: WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
+        이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
+        caption: 개인프로젝트
+        link: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          실시간 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **기술 스택:** 
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+          
   - title: Education
     layout: list
     content:
