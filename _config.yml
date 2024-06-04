@@ -215,11 +215,12 @@ content:
     content:
       - layout: left
         title: WebRTC 화상 회의 시스템
-        sub_title: 
-          WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
-          이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
         caption: 개인프로젝트
-        link: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
+        link_text: Notion Link
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-notion
+            url: https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74
         description: | # this will include new lines to allow paragraphs
           **사용 기술**
           JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
@@ -229,6 +230,10 @@ content:
 
           **기술 스택:** 
           JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **상세 설명**
+          WebRTC를 활용하여 실시간 화상 회의 시스템을 개발했습니다. 
+          이 시스템은 브라우저 간 P2P 연결을 통해 영상 및 음성 데이터를 실시간으로 전송할 수 있습니다.
 
   - title: Education
     layout: list
