@@ -135,22 +135,16 @@ content:
           ---
           - NAVER 블로그 : <a href="https://blog.naver.com/dltlgus313">Blog URL</a>
           - 블로그 운영 목적 : 교과목에 대한 이해와 개인 역량 강화를 위함이며, 정리의 목적.
-          - 운영 과목
-            1. C 언어
-            2. Java 언어
-            3. RDBMS
-            4. 리눅스
-            5. CS 지식
-            6. CCNA 
+          - 운영 과목 : C 언어, Java 언어, RDBMS, 리눅스, CS, CCNA 등
 
       - layout: left
         title: 프로젝트
         sub_title: 과제
         description: | # this will include new lines to allow paragraphs
           - 아두이노 `Line Tracer` 개발
-            1. 팀프로젝트로 제공되는 아두이노만을 활용
-            2. 센서를 통한 검은색 라인을 따라 이동하는 미니 자동차
-            3. 수상 : 교내대회 최우승
+            1. 제공되는 자원 한정 및 C++ 언어 사용
+            2. 배터리 및 기타 모듈등 최적의 성능을 발휘하도록 배치
+            3. 가장 짧은 시간안에 도착한 팀이 우승하며 약 20개팀 중 1등.
           - Starcraft, Maple story 등 유명 게임 벤치마킹한 온라인 2d 횡스크롤 게임 `StarWar2d` 개발
             1. TCP, UDP 를 적절히 활용하여 오픈 월드 구축
             2. PvP 시스템을 구축하여 사용자간의 결투 가능
