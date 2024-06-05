@@ -151,6 +151,7 @@ content:
             3. 미니맵 구축 우상단에 몬스터외 사용자 위치 파악 가능
             4. 상점및 아이템 구성, 단축키, 몬스터 처치시 확률성 아이템드롭률 구축
           - 프로젝트 진행시 방법론을 접목하여 전체 프로젝트를 관리 가능한 `TaskDoc` 개발 
+          
           <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, 
           <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
             1. 앱, 웹간의 연동 및 실시간 통신을 위해 STOMP를 이용하여 구독 메시징 프로토콜 적용
