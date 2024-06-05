@@ -154,9 +154,10 @@ content:
             1. 앱, 웹간의 연동 및 실시간 통신을 위해 STOMP를 이용하여 구독 메시징 프로토콜 적용
             2. 프로젝트 관리에 적합한 간트차트 Component 안드로이드 직접 개발하여 배포 완료 <a href="https://github.com/dltlgus312/Ganttchart-Android">[Android] Ganttchart</a>
             3. 웹 & 앱에 모두 대응되는 REST API 형태의 서버 코드 개발
-
-          <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, 
-          <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
+            
+            **Link**
+            <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, 
+            <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
 
   - title: Projects
     layout: list
