@@ -114,12 +114,42 @@ content:
             </tr>
           </table>
 
-      # - layout: left
-      #   title: 프로젝트
-      #   sub_title: 과제
-      #   description: | # this will include new lines to allow paragraphs
-      #     ****
-          
+      - layout: left
+        title: 동아리
+        sub_title: 대학교
+        description: | # this will include new lines to allow paragraphs
+          **해커스랩**
+          ---
+          - 동아리 목적 : 프로그래밍 역량강화 및 취업활동에 이점을 가지기 위함.
+          - 활동 내역 : 
+            1. `스마트팜` 아두이노 스마트 식물 발아기 개발
+            2. 전국 대학생 대상 it 컨퍼런스 참가 및 수상
+            3. 교내에서 진행하는 창업 지원 프로그램 참가
+            4. 프로그래밍 강화 목적을 위한 멘토 멘티 결성
+
+      - layout: left
+        title: 블로그
+        sub_title: 교과목
+        description: | # this will include new lines to allow paragraphs
+          **NAVER BLOG**
+          ---
+          - NAVER 블로그 : <a href="https://blog.naver.com/dltlgus313">Blog</a>
+          - 블로그 운영 목적 : 교과목에 대한 개인 역량 강화를 위함이며, 정리의 목적.
+          - 운영 과목
+            1. C 언어
+            2. Java 언어
+            3. RDBMS
+            6. 리눅스
+            7. CS 지식
+            8. CCNA
+
+      - layout: left
+        title: 프로젝트
+        sub_title: 과제
+        description: | # this will include new lines to allow paragraphs
+          - 
+          - 
+
   - title: Projects
     layout: list
     content:
