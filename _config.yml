@@ -6,8 +6,8 @@ repository: sihyeonleee/sihyeonleee.github.io
 version: 2
 
 # Personal info
-name: 이시현 - si hyeon lee
-title: 1993. 05. 08 Web Developer
+name: 이시현 - si hyeon Lee
+title: 1993. 05. 08 Developer
 email: dltlgus313@naver.com
 # email_title: Email (Email title override)
 phone: 010-2381-4118
@@ -23,7 +23,7 @@ darkmode: false
 github_username:  sihyeonleee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: https://www.facebook.com/profile.php?id=100004964325600
 # flickr_username: jekyll
 # instagram_username: jekyll
 # linkedin_username: jekyll
