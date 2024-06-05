@@ -141,7 +141,7 @@ content:
         title: 프로젝트
         sub_title: 과제
         description: | # this will include new lines to allow paragraphs
-          - 아두이노 `Line Tracer` 개발
+          - `Line Tracer` 개발
             1. 제공되는 자원 한정 및 C++ 언어 사용
             2. 배터리 및 기타 모듈등 최적의 성능을 발휘하도록 배치
             3. 가장 짧은 시간안에 도착한 팀이 우승하며 약 20개팀 중 1등.
@@ -151,10 +151,10 @@ content:
             3. 미니맵 구축 우상단에 몬스터외 사용자 위치 파악 가능
             4. 상점및 아이템 구성, 단축키, 몬스터 처치시 확률성 아이템드롭률 구축
           - 프로젝트 진행시 방법론을 접목하여 전체 프로젝트를 관리 가능한 `TaskDoc` 개발 
-          <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web]`TaskDoc`</a>
-          <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android]`TaskDoc`</a>
+          <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, 
+          <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
             1. 앱, 웹간의 연동 및 실시간 통신을 위해 STOMP를 이용하여 구독 메시징 프로토콜 적용
-            2. 프로젝트 관리에 적합한 간트차트 Component 안드로이드 직접 개발 및 배포 <a href="https://github.com/dltlgus312/Ganttchart-Android">[Android]`Ganttchart`</a>
+            2. 프로젝트 관리에 적합한 간트차트 Component 안드로이드 직접 개발하여 배포 완료 <a href="https://github.com/dltlgus312/Ganttchart-Android">[Android] Ganttchart</a>
             3. 웹 & 앱에 모두 대응되는 REST API 형태의 서버 코드 개발
 
   - title: Projects
