@@ -163,7 +163,7 @@ content:
         border: weak
         title: I-Bricks
         sub_title: 지능정보개발본부 대리
-        caption: 2023. 06 ~ 재직중
+        caption: 2023. 06 ~ `재직중`
         quote: >
           Elasticsearch 검색 개발
         description: |
