@@ -235,13 +235,12 @@ content:
           웹개발자
           
           - **사용 도구:** 
-          java, jsp, cubrid, git(issues), jenkins, jboss, bandisso, 웹스퀘어
+          java, jsp, cubrid, git, jenkins, jboss
           
           - **참여 내용:**
-            1. bix5 대시보드 솔루션 활용 대시보드 개발
-            2. 클라이언트, 서버 버전별 통계데이터 도식화
-            3. 관리자 권한별 통계 적용
-            4. poi 엑셀다운로드 (디자인 포함된 엑셀 시트 구성)
+            1. BIX5 대시보드 솔루션 활용 대시보드 개발
+            2. 정부처 서버 보안상 BIX5 의 버전별(클라이언트, 서버) 대시보드 구성
+            4. POI 엑셀다운로드 (디자인 포함된 엑셀 시트 구성)
 
           **2. 인사혁신처 발주 인재개발 플랫폼 유지보수**
           ---
@@ -249,12 +248,11 @@ content:
           웹개발자
           
           - **사용 도구:** 
-          java, jsp, cubrid, git(issues), jenkins, jboss, bandisso
+          java, jsp, cubrid, git, jenkins, jboss
           
           - **참여 내용:**
-            1. 유료 컨텐츠 결제 시스템 재적용
-            2. 강의 학습 완료에 따른 관리자 정산 및 재구매 프로세스 적용
-            3. kginicis 모듈 결제 및 취소, 환불 규정 준수
+            1. kginicis 모듈 결제 및 취소, 환불 규정 적용
+            2. 학습 완료에 따른 관리자 정산 및 재구매 프로세스 적용
 
           **3. 3D 상상포털 사이트 게시판 공통게시판 구축**
           ---
@@ -286,9 +284,9 @@ content:
           java, jsp, nodeJs, ejs, redis, mysql, svn, docker, jboss
           
           - **참여 내용:**
-            1. webRTC, coturn 활용 화상 및 화면 공유, 문서 공유, 파일 공유 개발
-            2. aceditor, docker 활용 온라인 코딩 개발
-            3. socketio, redis 활용 실시간 채팅 프로그램 개발
+            1. WebRTC, coturn 활용 화상 및 화면 공유, 문서 공유, 파일 공유 개발
+            2. Aceditor, Docker 활용 온라인 코딩 개발
+            3. SocketIO, Redis 활용 실시간 채팅 프로그램 개발
 
           **2. EBS SW온라인 클래스 - COVID19 대응 TF**
           ---
@@ -299,9 +297,9 @@ content:
           java, jsp, mysql, git, docker, jboss
           
           - **참여 내용:**
-            1. 100DB 셋 통계 집계 java app 개발 (로그 데이터 분석)
+            1. 100DB 셋 통계 집계 Java App 개발 (로그 데이터 분석)
             2. 고객 불만 사항 QA 대응 (시스템 오류, 잘못된 학습 방법 등 원인 분석)
-            3. long time query 튜닝
+            3. Long Time Query 튜닝
 
           **3. 거점국립대학 학점 교류 시스템(KERIS)**
           ---
@@ -325,10 +323,10 @@ content:
           nodeJs, redis, mysql, git, jenkins, kubernetes, msa, multitenant
           
           - **참여 내용:**
-            1. Multitenant 기반 구축으로 유동적인 DB 커넥션 개발(knex, cls, cache)
-            2. JWT 로그인 및 세션 커스터마이징 개발
-            3. socketio, redis 활용 실시간 퀴즈풀이 개발
-            4. 전반적인 코어단과 온라인 교육의 핵심인 수업설계 개발
+            1. Multitenant 에 적합한 효율적 DB 커넥션 개발(knex, cls, cache)
+            2. JWT 로그인 및 세션 체크 미들웨어 개발
+            3. SocketIO, Redis 활용 실시간 퀴즈풀이 개발
+            4. 온라인 교육 수업에 대한 설계, 예약, 뷰어 개발
 
   - title: Portfolio
     layout: list
