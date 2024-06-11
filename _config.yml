@@ -177,7 +177,7 @@ content:
           
           - **참여 내용:**
             1. Windows 서버 nssm 서비스 등록 운영
-            2. MSSQL 데이터 Elasticsearch 색인, 쿼리 작성
+            2. MSSQL 데이터 색인 수집기 개발 및 쿼리 작성
             3. 검색 필터 및 명령형 검색 NodeJS API 개발
 
           - **`S.T.A.R`**
