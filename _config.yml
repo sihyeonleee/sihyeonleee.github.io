@@ -178,8 +178,7 @@ content:
           - **참여 내용:**
             1. Windows 서버 nssm 서비스 등록 운영
             2. MSSQL 데이터 Elasticsearch 색인, 쿼리 작성
-            3. 필터링, 자동완성 검색을 위한 NodeJS API 개발
-            4. 특수문자 및 다양한 검색기능 요구 개발
+            3. 검색 필터 및 명령형 검색 NodeJS API 개발
 
           - **`S.T.A.R`**
             - Situation
@@ -219,7 +218,8 @@ content:
             2. React, TypeScript 기반 챗봇 화면 페이지 유지보수
             3. 개발 <> 운영 서버간의 데이터 싱크를 위한 migration 프로그램 개발
             4. Apache NiFi 데이터 색인 자동화
-            6. 리액트 화면 무중단 배포 설정 ( 심볼릭 링크 이용한 쉘 스크립트 작성 )
+            5. 리액트 화면 무중단 배포 설정 ( 심볼릭 링크 이용한 쉘 스크립트 작성 )
+            6. 외부 API 연계 cors 적용 및 nginx 서버 구성
 
       - layout: left
         border: weak
