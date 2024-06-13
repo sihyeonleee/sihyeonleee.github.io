@@ -73,89 +73,6 @@ about_content: | # this will include new lines to allow paragraphs
       <mark style="margin-left:3px;">SVN</mark>
     </div>
 content:
-  - title: Background
-    layout: list
-    content:
-      - layout: left
-        title: 학력
-        sub_title: 대학교
-        caption: 2016. 03 ~ 2019. 02
-        description: | # this will include new lines to allow paragraphs
-          **영진전문대학교 - 컴퓨터 정보계열**
-          ---
-          <table>
-            <tr>
-              <th>년도</th> <th>학년</th> <th>학기</th> <th>신청학점</th> <th>취득학점</th> <th>교필</th> <th>교선</th> 
-              <th>전필</th> <th>전선</th>	<th>교직</th> <th>인접</th> <th>평점계</th> <th>평균평점</th> <th>점수계</th> <th>점수평균</th> 
-            </tr>
-            <tr>
-              <td>2016</td> <td>1</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>3</td> <td>0</td> <td>17</td> <td>0</td> <td>0</td> <td>76.00</td> <td>4.00</td> <td>1,762</td> <td>92.74</td>
-            </tr>
-            <tr>
-              <td>2016</td> <td>1</td> <td>2</td> <td>23</td> <td>23</td> <td>0</td> <td>3</td> <td>0</td> <td>20</td> <td>0</td> <td>0</td> <td>96.00</td> <td>4.36</td> <td>2,111</td> <td>95.95</td>
-            </tr>
-            <tr>
-              <td>2017</td> <td>2</td> <td>1</td> <td>24</td> <td>24</td> <td>1</td> <td>2</td> <td>0</td> <td>21</td> <td>0</td> <td>0</td> <td>91.50</td> <td>3.98</td> <td>2,096</td> <td>91.13</td>
-            </tr>
-            <tr>
-              <td>2017</td> <td>2</td> <td>2</td> <td>24</td> <td>24</td> <td>0</td> <td>2</td> <td>0</td> <td>22</td> <td>0</td> <td>0</td> <td>84.00</td> <td>3.50</td> <td>2,065</td> <td>86.04</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>2</td> <td>3</td> <td>15</td> <td>0</td> <td>0</td> <td>55.50</td> <td>2.92</td> <td>1,524</td> <td>80.21</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>2</td> <td>9 </td> <td>9	</td> <td>0</td> <td>0</td> <td>3</td> <td>6 </td> <td>0</td> <td>0</td> <td>33.00</td> <td>4.13</td> <td>739	 </td> <td>92.38</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>3</td> <td>3 </td> <td>3	</td> <td>0</td> <td>0</td> <td>3</td> <td>0 </td> <td>0</td> <td>0</td> <td>0.00 </td> <td>0.00</td> <td>0	   </td> <td>0.00 </td>
-            </tr>
-            <tr>
-              <td>계</td> <td></td> <td></td> <td>123</td> <td>123</td> <td>1</td>	<td>12</td> <td>9</td> <td>101</td> <td>0</td> <td>0</td> <td>436</td> <td>3.79</td> <td>10,297</td> <td>89.54</td>
-            </tr>
-          </table>
-
-      - layout: left
-        title: 동아리
-        sub_title: 교내활동
-        description: | # this will include new lines to allow paragraphs
-          **해커스랩**
-          ---
-          - 동아리 목적 : 프로그래밍 역량강화 및 취업활동에 이점을 가지기 위함.
-          - 활동 내역 : 
-            1. "스마트팜" 아두이노 스마트 식물 발아기 개발
-            2. 전국 대학생 대상 it 컨퍼런스 참가 및 수상
-            3. 교내에서 진행하는 창업 지원 프로그램 참가
-            4. 프로그래밍 강화 목적을 위한 멘토 멘티 결성
-
-      - layout: left
-        title: 블로그
-        sub_title: 교과목
-        description: | # this will include new lines to allow paragraphs
-          **NAVER BLOG**
-          ---
-          - NAVER 블로그 : <a href="https://blog.naver.com/dltlgus313">Blog URL</a>
-          - 블로그 운영 목적 : 교과목에 대한 이해와 개인 역량 강화를 위함이며 정리의 목적.
-          - 운영 과목 : C 언어, Java 언어, RDBMS, 리눅스, CS, CCNA 등
-
-      - layout: left
-        title: 프로젝트
-        sub_title: 과제
-        description: | # this will include new lines to allow paragraphs
-          - `Line Tracer` 개발
-            1. 제공되는 자원 한정 및 C++ 언어 사용
-            2. 배터리 및 기타 모듈등 최적의 성능을 발휘하도록 배치
-            3. 가장 짧은 시간안에 도착한 팀이 우승하며 약 20개팀 중 1등.
-          - Starcraft, Maple story 등 유명 게임 벤치마킹한 온라인 2d 횡스크롤 게임 `StarWar2d` 개발
-            1. TCP, UDP 를 적절히 활용하여 오픈 월드 구축
-            2. PvP 시스템을 구축하여 사용자간의 결투 가능
-            3. 미니맵 구축 우상단에 몬스터외 사용자 위치 파악 가능
-            4. 상점및 아이템 구성, 단축키, 몬스터 처치시 확률성 아이템드롭률 구축
-          - 프로젝트 진행시 방법론을 접목하여 전체 프로젝트를 관리 가능한 `TaskDoc` 개발 
-            1. 앱, 웹간의 연동 및 실시간 통신을 위해 STOMP를 이용하여 구독 메시징 프로토콜 적용
-            2. 프로젝트 관리에 적합한 간트차트 Component 안드로이드 직접 개발하여 배포 완료 <a href="https://github.com/dltlgus312/Ganttchart-Android">[Android] Ganttchart</a>
-            3. 웹 & 앱에 모두 대응되는 REST API 형태의 서버 코드 개발
-            4. Link: <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
-
   - title: Career
     layout: list
     content:
@@ -436,6 +353,89 @@ content:
 
           **Link :**
           <a href="https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true">[notion] file manager</a>
+
+  - title: Background
+    layout: list
+    content:
+      - layout: left
+        title: 학력
+        sub_title: 대학교
+        caption: 2016. 03 ~ 2019. 02
+        description: | # this will include new lines to allow paragraphs
+          **영진전문대학교 - 컴퓨터 정보계열**
+          ---
+          <table>
+            <tr>
+              <th>년도</th> <th>학년</th> <th>학기</th> <th>신청학점</th> <th>취득학점</th> <th>교필</th> <th>교선</th> 
+              <th>전필</th> <th>전선</th>	<th>교직</th> <th>인접</th> <th>평점계</th> <th>평균평점</th> <th>점수계</th> <th>점수평균</th> 
+            </tr>
+            <tr>
+              <td>2016</td> <td>1</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>3</td> <td>0</td> <td>17</td> <td>0</td> <td>0</td> <td>76.00</td> <td>4.00</td> <td>1,762</td> <td>92.74</td>
+            </tr>
+            <tr>
+              <td>2016</td> <td>1</td> <td>2</td> <td>23</td> <td>23</td> <td>0</td> <td>3</td> <td>0</td> <td>20</td> <td>0</td> <td>0</td> <td>96.00</td> <td>4.36</td> <td>2,111</td> <td>95.95</td>
+            </tr>
+            <tr>
+              <td>2017</td> <td>2</td> <td>1</td> <td>24</td> <td>24</td> <td>1</td> <td>2</td> <td>0</td> <td>21</td> <td>0</td> <td>0</td> <td>91.50</td> <td>3.98</td> <td>2,096</td> <td>91.13</td>
+            </tr>
+            <tr>
+              <td>2017</td> <td>2</td> <td>2</td> <td>24</td> <td>24</td> <td>0</td> <td>2</td> <td>0</td> <td>22</td> <td>0</td> <td>0</td> <td>84.00</td> <td>3.50</td> <td>2,065</td> <td>86.04</td>
+            </tr>
+            <tr>
+              <td>2018</td> <td>3</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>2</td> <td>3</td> <td>15</td> <td>0</td> <td>0</td> <td>55.50</td> <td>2.92</td> <td>1,524</td> <td>80.21</td>
+            </tr>
+            <tr>
+              <td>2018</td> <td>3</td> <td>2</td> <td>9 </td> <td>9	</td> <td>0</td> <td>0</td> <td>3</td> <td>6 </td> <td>0</td> <td>0</td> <td>33.00</td> <td>4.13</td> <td>739	 </td> <td>92.38</td>
+            </tr>
+            <tr>
+              <td>2018</td> <td>3</td> <td>3</td> <td>3 </td> <td>3	</td> <td>0</td> <td>0</td> <td>3</td> <td>0 </td> <td>0</td> <td>0</td> <td>0.00 </td> <td>0.00</td> <td>0	   </td> <td>0.00 </td>
+            </tr>
+            <tr>
+              <td>계</td> <td></td> <td></td> <td>123</td> <td>123</td> <td>1</td>	<td>12</td> <td>9</td> <td>101</td> <td>0</td> <td>0</td> <td>436</td> <td>3.79</td> <td>10,297</td> <td>89.54</td>
+            </tr>
+          </table>
+
+      - layout: left
+        title: 동아리
+        sub_title: 교내활동
+        description: | # this will include new lines to allow paragraphs
+          **해커스랩**
+          ---
+          - 동아리 목적 : 프로그래밍 역량강화 및 취업활동에 이점을 가지기 위함.
+          - 활동 내역 : 
+            1. "스마트팜" 아두이노 스마트 식물 발아기 개발
+            2. 전국 대학생 대상 it 컨퍼런스 참가 및 수상
+            3. 교내에서 진행하는 창업 지원 프로그램 참가
+            4. 프로그래밍 강화 목적을 위한 멘토 멘티 결성
+
+      - layout: left
+        title: 블로그
+        sub_title: 교과목
+        description: | # this will include new lines to allow paragraphs
+          **NAVER BLOG**
+          ---
+          - NAVER 블로그 : <a href="https://blog.naver.com/dltlgus313">Blog URL</a>
+          - 블로그 운영 목적 : 교과목에 대한 이해와 개인 역량 강화를 위함이며 정리의 목적.
+          - 운영 과목 : C 언어, Java 언어, RDBMS, 리눅스, CS, CCNA 등
+
+      - layout: left
+        title: 프로젝트
+        sub_title: 과제
+        description: | # this will include new lines to allow paragraphs
+          - `Line Tracer` 개발
+            1. 제공되는 자원 한정 및 C++ 언어 사용
+            2. 배터리 및 기타 모듈등 최적의 성능을 발휘하도록 배치
+            3. 가장 짧은 시간안에 도착한 팀이 우승하며 약 20개팀 중 1등.
+          - Starcraft, Maple story 등 유명 게임 벤치마킹한 온라인 2d 횡스크롤 게임 `StarWar2d` 개발
+            1. TCP, UDP 를 적절히 활용하여 오픈 월드 구축
+            2. PvP 시스템을 구축하여 사용자간의 결투 가능
+            3. 미니맵 구축 우상단에 몬스터외 사용자 위치 파악 가능
+            4. 상점및 아이템 구성, 단축키, 몬스터 처치시 확률성 아이템드롭률 구축
+          - 프로젝트 진행시 방법론을 접목하여 전체 프로젝트를 관리 가능한 `TaskDoc` 개발 
+            1. 앱, 웹간의 연동 및 실시간 통신을 위해 STOMP를 이용하여 구독 메시징 프로토콜 적용
+            2. 프로젝트 관리에 적합한 간트차트 Component 안드로이드 직접 개발하여 배포 완료 <a href="https://github.com/dltlgus312/Ganttchart-Android">[Android] Ganttchart</a>
+            3. 웹 & 앱에 모두 대응되는 REST API 형태의 서버 코드 개발
+            4. Link: <a href="https://github.com/dltlgus312/TaskDoc-WEB-SERVER">[Web] TaskDoc</a>, <a href="https://github.com/dltlgus312/TaskDoc-ANDROID">[Android] TaskDoc</a>
 
   - title: Certificate
     layout: list
