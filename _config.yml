@@ -89,7 +89,7 @@ content:
           - **주요 업무:** 
           빅데이터
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           nodejs, elasticsearch, kibana, mssql
           
           - **참여 내용:**
@@ -116,7 +116,7 @@ content:
           - **주요 업무:** 
           빅데이터
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           nodejs, ejs, react, typescript, nifi, elasticsearch, kibana, nginx
           
           - **참여 내용:**
@@ -154,7 +154,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, cubrid, git, jenkins, jboss
           
           - **참여 내용:**
@@ -180,7 +180,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, cubrid, git, jenkins, jboss
           
           - **참여 내용:**
@@ -192,7 +192,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, mariadb, svn, tomcat
           
           - **참여 내용:**
@@ -213,7 +213,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, nodeJs, ejs, redis, mysql, svn, docker, jboss
           
           - **참여 내용:**
@@ -226,7 +226,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, mysql, git, docker, jboss
           
           - **참여 내용:**
@@ -252,7 +252,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           java, jsp, svn, tomcat, mysql
           
           - **참여 내용:**
@@ -265,7 +265,7 @@ content:
           - **주요 업무:** 
           웹개발자
           
-          - **사용 도구:** 
+          - **서버 구성:** 
           nodeJs, redis, mysql, git, jenkins, kubernetes, msa, multitenant
           
           - **참여 내용:**
