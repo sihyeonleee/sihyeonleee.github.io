@@ -366,6 +366,19 @@ content:
           **Link :**
           <a href="https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true">[notion] file manager</a>
 
+      - layout: left
+        title: 알고리즘 학습
+        caption: 온라인 코딩테스트 문제풀이
+        description: | # this will include new lines to allow paragraphs
+          **상세 설명 :**
+          온라인에서 제공하는 코딩테스트 1일 1문제 풀이를 목적으로 개설된 프로젝트이다.
+          주로 해시, 스택, 큐, 힙, 그리디, 정렬, DP, DFS/BFS, 이분탐색에 대한 이해와 학습의 
+          목적으로 매일 업데이트 된다. 업데이트된 내용은 풀이코드와 베스트 코드가 있으며 
+          fail 된 사유가 적혀있다.
+
+          **Link :**
+          <a href=https://github.com/sihyeonleee/AlgorithmPractice">[notion] file manager</a>
+
   - title: Background
     layout: list
     content:
