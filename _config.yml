@@ -383,8 +383,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: 학력
-        sub_title: 대학교
+        title: 최종학력
+        sub_title: 3.79
         caption: 2016. 03 ~ 2019. 02
         description: | # this will include new lines to allow paragraphs
           **영진전문대학교 - 컴퓨터 정보계열**
