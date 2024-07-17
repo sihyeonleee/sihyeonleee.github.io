@@ -72,8 +72,11 @@ about_content: | # this will include new lines to allow paragraphs
       <mark style="margin-left:3px;">Git</mark>
       <mark style="margin-left:3px;">SVN</mark>
     </div>
-    <div>
-      <a href="images/sihyeonleee_github.pdf" download="sihyeonlee">PDF</a>
+
+    
+    <div style="margin-top: 30px; font-size: 1.5em; font-weight: 900;">
+      <a href="images/sihyeonleee_github.pdf" download="sihyeonlee">PDF 다운로드</a>
+      <a href="images/sihyeonleee_github.pptx" download="sihyeonlee">PPT 다운로드</a>
     </div>
 content:
   - title: Career
