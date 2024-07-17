@@ -72,6 +72,9 @@ about_content: | # this will include new lines to allow paragraphs
       <mark style="margin-left:3px;">Git</mark>
       <mark style="margin-left:3px;">SVN</mark>
     </div>
+    <div>
+      <a href="images/sihyeonleee_github.pdf" download="sihyeonlee">PDF</a>
+    </div>
 content:
   - title: Career
     layout: list
