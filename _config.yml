@@ -12,7 +12,7 @@ email: dltlgus313@naver.com
 # email_title: Email (Email title override)
 phone: 010-2381-4118
 # phone_title: Phone (Phone title override)
-website: https://github.com/sihyeonleee
+website: https://sihyeonleee.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -81,6 +81,10 @@ about_content: | # this will include new lines to allow paragraphs
       <span style="margin-left: 10px;margin-right: 10px;"> | </span>
       <a href="images/sihyeonleee.pptx" download="sihyeonlee">PPT 다운로드</a>
     </div>
+
+    </br>
+
+
 content:
   - title: Career
     layout: list
