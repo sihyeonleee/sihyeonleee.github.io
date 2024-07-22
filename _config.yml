@@ -49,7 +49,7 @@ facebook_username: https://www.facebook.com/profile.php?id=100004964325600
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: images/jobs.JPG
 about_content: | # this will include new lines to allow paragraphs
     책임감과 효율성을 중시하고 일상에서도 이를 실천하려고 노력합니다. 사적인 
@@ -74,16 +74,13 @@ about_content: | # this will include new lines to allow paragraphs
     </div>
 
     
-    <div style="margin-top: 100px; font-size: 1.5em; font-weight: 900; text-align: right;">
+    <div style="margin-top: 150px; margin-bottom: 30px; font-size: 1.5em; font-weight: 900; text-align: right;">
       <a href="images/sihyeonleee.pdf" download="sihyeonlee">PDF 다운로드</a>
       <span style="margin-left: 10px;margin-right: 10px;"> | </span>
       <a href="images/sihyeonleee.docx" download="sihyeonlee">WORD 다운로드</a>
       <span style="margin-left: 10px;margin-right: 10px;"> | </span>
       <a href="images/sihyeonleee.pptx" download="sihyeonlee">PPT 다운로드</a>
     </div>
-
-    </br>
-
 
 content:
   - title: Career
