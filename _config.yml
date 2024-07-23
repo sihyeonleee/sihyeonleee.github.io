@@ -52,14 +52,14 @@ facebook_username: https://www.facebook.com/profile.php?id=100004964325600
 about_title: About Me
 about_profile_image: images/jobs.JPG
 about_content: | # this will include new lines to allow paragraphs
-    <div style="font-size: 1.6rem; text-align: justify;">
+    <div style="font-size: 1.6rem; text-align: justify; margin-top: 30px;">
       책임감과 효율성을 중시하고 일상에서도 이를 실천하려고 노력합니다. 사적인 
       모임에서 사람들과 어울리는 것을 좋아하지만, 동시에 혼자만의 시간도 소중히 
       여깁니다. 다양한 사람들과의 교류를 통해 얻는 에너지와 혼자 있는 시간 동안의 
       깊은 사고가 제 삶을 균형 있게 만들어줍니다. 이러한 성향은 제 업무와 개인
       생활 모두에 긍정적인 영향을 미칩니다.
     </div>
-    <div style="font-size: 200%; margin-top:35px; margin-top: 30px;">
+    <div style="font-size: 200%; margin-top:35px;">
       <mark style="margin-left:3px;">JAVA</mark>
       <mark style="margin-left:3px;">Spring</mark>
       <mark style="margin-left:3px;">JSP</mark>
