@@ -75,7 +75,7 @@ about_content: | # this will include new lines to allow paragraphs
     </div>
 
     
-    <div style="margin-top: 150px; margin-bottom: 30px; font-size: 1.5em; font-weight: 900; text-align: right;">
+    <div style="margin-top: 120px; margin-bottom: 30px; font-size: 1.5em; font-weight: 900; text-align: right;">
       <a href="images/sihyeonleee.pdf" download="sihyeonlee">PDF 다운로드</a>
       <span style="margin-left: 10px;margin-right: 10px;"> | </span>
       <a href="images/sihyeonleee.docx" download="sihyeonlee">WORD 다운로드</a>
