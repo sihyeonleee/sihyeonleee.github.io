@@ -408,7 +408,7 @@ content:
         title: 프로젝트
         sub_title: 과제
         description: | # this will include new lines to allow paragraphs
-          - `Line Tracer` 개발
+          - `Line Tracer` 개발 
             1. 제공되는 자원 한정 및 C++ 언어 사용
             2. 배터리 및 기타 모듈등 최적의 성능을 발휘하도록 배치
             3. 가장 짧은 시간안에 도착한 팀이 우승하며 약 20개팀 중 1등.
