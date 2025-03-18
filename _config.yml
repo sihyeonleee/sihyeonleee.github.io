@@ -91,6 +91,32 @@ content:
     content:
       - layout: left
         border: weak
+        title: 가을엔터테인먼트
+        sub_title: 웹개발팀 대리
+        caption: 2024. 10 ~ <mark>재직중</mark>
+        quote: >
+          Java Spring Boot 웹개발
+        description: |
+          **1. 조이팬 - 팬과 크리에이터가 하나가 되는 공간 **
+          ---
+          - **주요 업무:** 
+          분석 및 db 설계를 포함한 웹개발 전체
+
+          - **서버 구성:** 
+          docker v27.3, apache v2.4, tomcat v11, spring boot v3.3, next.js v14.2, mysql v10.3, redis v7.4
+
+          - **참여 내용:**
+            1. 요구사항 분석 및 db 설계, 전체적인 인프라 구성 (apache, next, tomcat, mysql, redis, docker)
+            2. SNS JWT 로그인, nicepay 결제, 실시간 채팅, postfix 이메일전송, 가비아 도메인관리등 웹개발 전체 참여
+
+          - **`기여`:**
+
+            미디어 컨텐츠를 보는 사이트 특성으로 큰 용량의 동영상파일을 업로드 하기 위한 과정
+            - 전략 : Next 의 SPA 특성과, chunk 단위 업로드 후 최종 merge 하는 비동기 업로드 구현
+            - **결과 : 파일 업로드 중 SPA 의 특성으로 페이지 전체 로딩이 되지않아 자유로운 활동이 가능**
+
+      - layout: left
+        border: weak
         title: I-Bricks
         sub_title: 지능정보개발본부 대리
         caption: 2023. 06 ~ 2024. 09
@@ -133,6 +159,7 @@ content:
             내부 서버와 고객사의 운영 서버간 데이터 싱크를 맞추기 위한 과정
             - 전략 : NodeJS, 쉘 스크립트를 이용한 마이그레이션
             - **결과 : 복잡한 인프라 구성에 따른 데이터 동기화 요청에 빠른 대응**
+
       - layout: left
         border: weak
         title: PCN
@@ -312,7 +339,7 @@ content:
         caption: KEY-HOOK, GUI
         description: | # this will include new lines to allow paragraphs
           **사용 기술 :**
-          JAVA ( thread, jna , jwt, google drive api )
+          JAVA ( thread, jna, swing,google drive api )
 
           **주요 기능 :**
           google drive api 를 사용하여 저장소에 최신버전이 있을경우 자동 다운로드 가능하고
