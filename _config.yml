@@ -97,7 +97,7 @@ content:
         quote: >
           Java Spring Boot 웹개발
         description: |
-          **1. 조이팬 - 팬과 크리에이터가 하나가 되는 공간 **
+          **1. 조이팬 - 팬과 크리에이터가 하나가 되는 공간**
           ---
           - **주요 업무:** 
           분석 및 db 설계를 포함한 웹개발 전체
@@ -119,7 +119,7 @@ content:
         border: weak
         title: I-Bricks
         sub_title: 지능정보개발본부 대리
-        caption: 2023. 06 ~ 2024. 09
+        caption: 2023. 06 ~ 2024. 09 (1년 5개월)
         quote: >
           Elasticsearch 검색 개발
         description: |
@@ -164,7 +164,7 @@ content:
         border: weak
         title: PCN
         sub_title: dv실 대리
-        caption: 2022. 10 ~ 2023. 05
+        caption: 2022. 10 ~ 2023. 05 (7개월)
         quote: >
           Java Spring 웹개발
         description: |
@@ -203,7 +203,7 @@ content:
       - layout: left
         title: UBION
         sub_title: 플랫폼개발2팀 대리
-        caption: 2019. 01 ~ 2022. 04
+        caption: 2019. 01 ~ 2022. 04 (3년 3개월)
         quote: >
           Java Spring, NodeJs 웹개발
         description: |
