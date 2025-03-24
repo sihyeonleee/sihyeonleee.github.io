@@ -279,6 +279,25 @@ content:
     layout: list
     content:
       - layout: left
+        title: 대화형 모델
+        caption: sLLM(llama)
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술 :**
+          wsl, llama-cpp, python
+
+          **주요 기능 :**
+          sLLM(llama) 모델을 이용한 대화형 모델 구현
+
+          **상세 설명 :**
+          Window11 의 가상화 wsl 환경에서 llama + 언어모델을 이용한 대화형 모델 구현.
+          속도 개선을 위해 GPU 사용 하였으며 가벼운 테스트를 위해 mistral.gguf 모델 사용.
+
+
+          **Link :**
+          <a href="https://canyon-nickel-820.notion.site/sLLM-llama-cpp-1c0db14395b780e28d2ffdb0e02fd3a7?pvs=74">[notion] sLLM(llama)</a>
+
+    content:
+      - layout: left
         title: 이미지 유사검색
         caption: CLIP + FAISS
         description: | # this will include new lines to allow paragraphs
