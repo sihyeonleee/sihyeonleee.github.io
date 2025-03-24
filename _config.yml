@@ -296,7 +296,6 @@ content:
           **Link :**
           <a href="https://canyon-nickel-820.notion.site/sLLM-llama-cpp-1c0db14395b780e28d2ffdb0e02fd3a7?pvs=74">[notion] sLLM(llama)</a>
 
-    content:
       - layout: left
         title: 이미지 유사검색
         caption: CLIP + FAISS
