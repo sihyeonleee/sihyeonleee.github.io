@@ -106,8 +106,8 @@ content:
           docker v27.3, apache v2.4, tomcat v11, spring boot v3.3, next.js v14.2, mysql v10.3, redis v7.4
 
           - **참여 내용:**
-            1. 요구사항 분석 및 db 설계, 전체적인 인프라 구성 (apache, next, tomcat, mysql, redis, docker)
-            2. SNS JWT 로그인, nicepay 결제, 실시간 채팅, postfix 이메일전송, 가비아 도메인관리등 웹개발 전체 참여
+            1. 요구사항 분석 및 db 설계, 전체적인 인프라 구성 및 구축
+            2. SNS JWT 로그인, nicepay 결제, 실시간 채팅, postfix 이메일전송, 도메인관리등 웹개발 전체
 
           - **`기여`:**
 
