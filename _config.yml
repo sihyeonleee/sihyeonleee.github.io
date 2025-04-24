@@ -113,14 +113,13 @@ content:
           - **`기여`:**
 
             SNS 형 커뮤니티 사이트 구축과정으로 웹개발 전체 참여 (관리자, 컨텐츠매니저, 크리에이터,사용자)
-            - 상세 : 
-                    1. Next SPA 활용하여 파일 Chunk 업로드 구현, jotai(recoil) 를 이용한 상태관리
-                    2. 로그인 개발 : Spring Security, jwt
-                    3. 스케쥴링 개발 : 구독결제, 자동정산
-                    4. 실시간 알림 및 이메일 전송 : postfix + redis pub/sub
-                    5. 실시간 채팅 개발 : socket, redis 클러스터링
-                    6. 컨텐츠 품질 향상 : vod station, cdn cnannel 및 hls 적용
-                    7. 무단 캡쳐 방지 : 비디오 플레이어 개발(webgl, canvas) 및 watermark
+            - Next SPA 활용하여 파일 Chunk 업로드 구현, jotai(recoil) 를 이용한 상태관리
+            - 로그인 개발 : Spring Security, jwt
+            - 스케쥴링 개발 : 구독결제, 자동정산
+            - 실시간 알림 및 이메일 전송 : postfix + redis pub/sub
+            - 실시간 채팅 개발 : socket, redis 클러스터링
+            - 컨텐츠 품질 향상 : vod station, cdn cnannel 및 hls 적용
+            - 무단 캡쳐 방지 : 비디오 플레이어 개발(webgl, canvas) 및 watermark
 
       - layout: left
         border: weak
