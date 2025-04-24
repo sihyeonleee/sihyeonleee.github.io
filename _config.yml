@@ -54,11 +54,12 @@ about_profile_image: images/jobs.JPG
 about_content: | # this will include new lines to allow paragraphs
   <div style="font-size: 1.6rem; text-align: justify; margin-top: 30px;">
     끊임없는 기술 탐구와 구조적 사고를 바탕으로 안정적인 시스템을 구축하는 개발자입니다. 
-    Spring Boot, Node, RDBMS 기반의 웹 아키텍처 설계부터 서비스 운영까지 전 주기를 폭넓게 경험하였고, 
-    WebSocket 기반 채팅, OAuth 및 JWT 기반 사용자 인증, 외부 결제 및 본인 인증, CDN 을 활용한 스트리밍까지 
-    다양한 기술을 실무에 적용해 왔습니다. 또한, AWS, NCP, NHN 등 클라우드 환경에서 Docker 기반 서버 인프라 
-    구성 및 운영 경험을 보유하고 있으며, Redis 메시징, Elasticsearch 검색, WebRTC 영상 통신 등 복잡한 기술 
-    요소들을 유기적으로 결합해 고품질의 사용자 경험을 제공해 왔습니다.
+    Spring Boot, Node, RDBMS 기반의 웹 아키텍처 설계부터 서비스 운영까지 전 주기를 
+    폭넓게 경험했으며, WebSocket 기반 채팅, OAuth 및 JWT 기반 사용자 인증, 외부 결제 
+    및 본인 인증, CDN 을 활용한 스트리밍까지 다양한 기술을 실무에 적용해 왔습니다. 
+    또한 AWS, NCP, NHN 등 클라우드 환경에서 Docker 기반 서버 인프라 구성 및 운영 
+    경험을 갖추고 있으며, Redis, Elasticsearch, WebRTC 등 복잡한 기술 요소들을 
+    유기적으로 결합해 고품질의 사용자 경험을 제공하는것이 개발자로서의 지향점으로 삼고 있습니다.
   </div>
   <div style="font-size: 200%; margin-top:35px;">
     <mark style="margin-left:3px;">JAVA</mark>
