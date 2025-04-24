@@ -107,7 +107,7 @@ content:
 
           - **참여 내용:**
             1. Mysql ERD 설계, 개발(next, chat, util, api), 서버 구축(NCP)
-            2. NCP 클라우드 : ubuntu server, block-storage, object-storage, Global Edge(cdn), vod-station, vod-channel(HLS)
+            2. NCP 클라우드 : Ubuntu, Object Storage, Vod Station/Channel, Global Edge(cdn), Sub Account
             3. api 연동 : SNS(google, kakao, naver, twitter), nicepay(결제), niceapi(인증), nurigo(메신저), postfix(이메일)
 
           - **`기여`:**
