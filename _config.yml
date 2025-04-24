@@ -103,10 +103,10 @@ content:
           SNS 형 커뮤니티 사이트 구축으로 분석 및 db 설계를 포함한 웹개발 전체
 
           - **서버 구성:** 
-          NCP, docker v27.3, apache v2.4, tomcat v11, spring boot v3.3, next.js v14.2, mysql v10.3, redis v7.4
+          ncp, docker v27.3, apache v2.4, tomcat v11, spring boot v3.3, next.js v14.2, mysql v10.3, redis v7.4
 
           - **참여 내용:**
-            1. Mysql ERD 설계, 개발(next, chat, util, api), 서버 구축(NCP)
+            1. Mysql ERD 설계, 개발(next, chat, util, api), 서버 구축(ncp)
             2. NCP 클라우드 : Ubuntu, Object Storage, Vod Station/Channel, Global Edge(cdn), Sub Account
             3. api 연동 : SNS(google, kakao, naver, twitter), nicepay(결제), niceapi(인증), nurigo(메신저), postfix(이메일)
 
@@ -114,8 +114,8 @@ content:
 
             SNS 형 커뮤니티 사이트 구축과정으로 웹개발 전체 참여 (관리자, 컨텐츠매니저, 크리에이터,사용자)
             - Next SPA 활용하여 파일 Chunk 업로드 구현, jotai(recoil) 를 이용한 상태관리
-            - 로그인 개발 : Spring Security, jwt
-            - 스케쥴링 개발 : 구독결제, 자동정산
+            - 로그인 개발 : Spring Security, Json Web Token
+            - 스케쥴링 개발 : 월 구독결제, 월 자동정산
             - 실시간 알림 및 이메일 전송 : postfix + redis pub/sub
             - 실시간 채팅 개발 : socket, redis 클러스터링
             - 컨텐츠 품질 향상 : vod station, cdn cnannel 및 hls 적용
@@ -321,24 +321,6 @@ content:
           <a href="https://canyon-nickel-820.notion.site/CLIP-FAISS-1bcdb14395b7802780ead79214068fbf?pvs=73">[notion] CLIP + FAISS 유사검색(한글지원)</a>
 
       - layout: left
-        title: 화상회의 프로그램
-        caption: WebRTC
-        description: | # this will include new lines to allow paragraphs
-          **사용 기술 :**
-          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
-
-          **주요 기능 :**
-          p2p 실시간 통신, 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
-
-          **상세 설명 :**
-          WebRTC, coturn 활용하여 실시간 화상회의 프로그램 개발
-          브라우저 간 P2P연결(연결불가시 coturn:TURN 서버 우회)을 통한 영상 및 음성 데이터 실시간 전송
-          그밖의 텍스트 전송을 이용해 canvas의 그리기 공유도 가능
-
-          **Link :**
-          <a href="https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74">[notion] webrtc</a>
-
-      - layout: left
         title: 단어예측(유사검색) 프로그램
         caption: Word2Vec(Skip-gram, CBOW)
         description: | # this will include new lines to allow paragraphs
@@ -377,7 +359,25 @@ content:
           <a href="https://canyon-nickel-820.notion.site/Elasticsearch-plugin-86de562db42d4468b8cadfb8ac37dc44?pvs=74">[notion] elasticsearch plugin</a>
 
       - layout: left
-        title: 파일 관리 프로그램
+        title: 화상회의 프로그램
+        caption: WebRTC
+        description: | # this will include new lines to allow paragraphs
+          **사용 기술 :**
+          JavaScript, Node.js, Express, Socket.io, RTCMultiConnection
+
+          **주요 기능 :**
+          p2p 실시간 통신, 영상 및 음성, 화면공유 스트리밍, 채팅 기능, 파일 공유 기능
+
+          **상세 설명 :**
+          WebRTC, coturn 활용하여 실시간 화상회의 프로그램 개발
+          브라우저 간 P2P연결(연결불가시 coturn:TURN 서버 우회)을 통한 영상 및 음성 데이터 실시간 전송
+          그밖의 텍스트 전송을 이용해 canvas의 그리기 공유도 가능
+
+          **Link :**
+          <a href="https://canyon-nickel-820.notion.site/webRTC-coturn-4a89d7b420634d6aa46ea4d96160fc9f?pvs=74">[notion] webrtc</a>
+
+      - layout: left
+        title: 개인 파일 관리 프로그램
         caption: KEY-HOOK, GUI
         description: | # this will include new lines to allow paragraphs
           **사용 기술 :**
