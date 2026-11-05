@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 이시현 - si hyeon Lee
-title: 1993. 05. 08 Developer
+title: 웹·플랫폼 개발자
 email: dltlgus313@naver.com
 # email_title: Email (Email title override)
 phone: 010-2381-4118
@@ -52,15 +52,10 @@ facebook_username: https://www.facebook.com/profile.php?id=100004964325600
 about_title: About Me
 about_profile_image: images/jobs.JPG
 about_content: | # this will include new lines to allow paragraphs
-  <div style="font-size: 1.6rem; text-align: justify; margin-top: 30px;">
-    끊임없는 기술 탐구와 구조적 사고를 바탕으로 안정적인 시스템을 구축하는 개발자입니다. 
-    Spring Boot, Node, RDBMS 기반의 웹 아키텍처 설계부터 서비스 운영까지 전 주기를 
-    폭넓게 경험했으며, WebSocket 기반 채팅, OAuth 및 JWT 기반 사용자 인증, 외부 결제 
-    및 본인 인증, CDN 을 활용한 스트리밍까지 다양한 기술을 실무에 적용해 왔습니다. 
-    또한 AWS, NCP, NHN 등 클라우드 환경에서 Docker 기반 서버 인프라 구성 및 운영 
-    경험을 갖추고 있으며, Redis, Elasticsearch, WebRTC 등 복잡한 기술 요소들을 
-    유기적으로 결합해 고품질의 사용자 경험을 제공하는것이 개발자로서의 지향점으로 삼고 있습니다.
-  </div>
+  Spring Boot 기반 관리 웹과 운영 모니터링을 개발합니다. 현재는 ESB 플랫폼 DO.LiNKER에서 대시보드와 로그 조회 화면, 모니터링 데이터 수집 기능을 맡고 있으며, WSFC 구성과 Jenkins 배포 자동화도 담당했습니다.
+
+  이전에는 커뮤니티 서비스, Elasticsearch 검색 시스템, 온라인 교육 플랫폼을 개발했습니다.
+
   <div style="font-size: 200%; margin-top:35px;">
     <mark style="margin-left:3px;">JAVA</mark>
     <mark style="margin-left:3px;">Spring</mark>
@@ -75,15 +70,14 @@ about_content: | # this will include new lines to allow paragraphs
     <mark style="margin-left:3px;">SVN</mark>
   </div>
 
-
   <div style="margin-top: 120px; margin-bottom: 30px; font-size: 1.5em; font-weight: 900; text-align: right;">
-    <a href="https://sihyeonleee.github.io">원본 (git)</a>
+    <a href="https://github.com/sihyeonleee/sihyeonleee.github.io">GitHub 소스</a>
     <span style="margin-left: 10px;margin-right: 10px;"> | </span>
-    <a href="images/sihyeonleee.pdf" download="sihyeonlee">PDF 다운로드</a>
+    <a href="images/sihyeonleee.pdf" download="sihyeonlee">이전 PDF</a>
     <span style="margin-left: 10px;margin-right: 10px;"> | </span>
-    <a href="images/sihyeonleee.docx" download="sihyeonlee">WORD 다운로드</a>
+    <a href="images/sihyeonleee.docx" download="sihyeonlee">이전 Word</a>
     <span style="margin-left: 10px;margin-right: 10px;"> | </span>
-    <a href="images/sihyeonleee.pptx" download="sihyeonlee">PPT 다운로드</a>
+    <a href="images/sihyeonleee.pptx" download="sihyeonlee">이전 PPT</a>
   </div>
 
 content:
@@ -92,16 +86,32 @@ content:
     content:
       - layout: left
         border: weak
+        title: 도전하는사람들
+        caption: 2025. 11. 24 ~ 현재
+        quote: >
+          관리 웹·모니터링 개발 및 운영 인프라 구축
+        description: |
+          **DO.LiNKER · 시스템 간 메시지 연계를 위한 ESB 플랫폼**
+
+          - 연계 시스템별 처리 현황과 평균 처리시간을 확인하는 운영 대시보드를 개발하고, 현황 조회에서 메시지 본문을 제외해 조회 데이터량을 줄였습니다.
+          - Observer의 API·SQL 로그 수집부터 관리 웹의 검색·필터·상세 조회까지 구현했습니다.
+          - 서버 네트워크·디스크 I/O 수집과 헬스 체크를 추가하고, 요청 타임아웃과 실패를 구분하도록 개선했습니다.
+          - Windows Server Failover Clustering(WSFC)을 구성하고 Jenkins로 배포를 자동화했습니다.
+
+          **기술** · Java, Spring Boot, PostgreSQL, WSFC, Jenkins
+
+      - layout: left
+        border: weak
         title: 가을엔터테인먼트
         sub_title: 웹개발팀 대리
         caption: 2024. 10 ~ 2025. 09 (1년)
         quote: >
           Java Spring Boot 웹개발
         description: |
-          **1. 조이팬 - 팬과 크리에이터가 하나가 되는 공간**
+          **1. 조이팬 · 팬과 크리에이터를 위한 커뮤니티**
           ---
           - **주요 업무:** 
-          SNS 형 커뮤니티 사이트 구축으로 분석 및 db 설계를 포함한 웹개발 전체
+          커뮤니티 서비스의 요구사항 분석, 데이터베이스 설계 및 웹 개발
 
           - **서버 구성:** 
           ncp, docker v27.3, apache v2.4, tomcat v11, spring boot v3.3, next.js v14.2, mysql v10.3, redis v7.4
@@ -113,20 +123,20 @@ content:
 
           - **`기여`:**
 
-            SNS 형 커뮤니티 사이트 구축과정으로 웹개발 전체 참여 (관리자, 컨텐츠매니저, 크리에이터,사용자)
+            관리자, 콘텐츠 매니저, 크리에이터, 사용자 화면과 기능 개발
             - Next SPA 활용하여 파일 Chunk 업로드 구현, jotai(recoil) 를 이용한 상태관리
             - 로그인 개발 : Spring Security, Json Web Token
             - 스케쥴링 개발 : 월 구독결제, 월 자동정산
             - 실시간 알림 및 이메일 전송 : postfix + redis pub/sub
             - 실시간 채팅 개발 : socket, redis 클러스터링
-            - 컨텐츠 품질 향상 : vod station, cdn cnannel 및 hls 적용
-            - 무단 캡쳐 방지 : 비디오 플레이어 개발(webgl, canvas) 및 watermark
+            - VOD Station, CDN, HLS를 적용한 영상 재생 구현
+            - WebGL·Canvas 기반 비디오 플레이어에 워터마크 적용
 
       - layout: left
         border: weak
         title: I-Bricks
         sub_title: 지능정보개발본부 대리
-        caption: 2023. 06 ~ 2024. 09 (1년 5개월)
+        caption: 2023. 06 ~ 2024. 09
         quote: >
           Elasticsearch 검색 개발
         description: |
@@ -144,9 +154,8 @@ content:
 
           - **`기여`:**
 
-            사내 권장 프로그램인 NiFi를 운영 서버 자원의 한계로 대처방안 개발 과정
-            - 전략 : NodeJS 수집기 이용 Chunk 별 Bulk size 조절 및 데이터 백업
-            - **결과 : 확보된 리소스만큼 메모리 증가와 데이터 백업에 여유분을 둘 수 있게 되었으며 고객만족 향상**
+            운영 서버 자원 제약에 맞춰 Node.js 기반 색인 수집기 개발
+            - 배치별 Bulk 요청 크기를 조절하고 데이터 백업 구성
 
           **2. 이용장벽없는 스마트전시관 챗봇 응답 시스템**
           ---
@@ -165,13 +174,12 @@ content:
 
             내부 서버와 고객사의 운영 서버간 데이터 싱크를 맞추기 위한 과정
             - 전략 : NodeJS, 쉘 스크립트를 이용한 마이그레이션
-            - **결과 : 복잡한 인프라 구성에 따른 데이터 동기화 요청에 빠른 대응**
 
       - layout: left
         border: weak
         title: PCN
         sub_title: dv실 대리
-        caption: 2022. 10 ~ 2023. 05 (7개월)
+        caption: 2022. 10 ~ 2023. 05
         quote: >
           Java Spring 웹개발
         description: |
@@ -192,7 +200,6 @@ content:
 
             배포 시 프로젝트 빌드후 배포하여 긴급 수정시 반영 속도를 개선하는 과정
             - 전략 : 수정 혹은 추가된 파일 대상으로 구조에 맞게 경로복사하여 덮어쓰기
-            - **결과 : 수정된 파일대상으로 target 복사하여 배포 시간이 단축 및 실수 줄임**
 
           **2. 3D 상상포털 사이트내 공통게시판 구축**
           ---
@@ -231,7 +238,7 @@ content:
 
             WebRTC 통신을 위해 사설네트워크(VPN), 방화벽이 구성된 환경에 대한 대응
             - 전략 : STUN/TURN 서버 구성 및 시그널 서버 구축
-            - **결과 : 보안에 예민한 학교 및 기관에서도 화상강의를 진행 가능**
+            - 방화벽이 있는 학교·기관 환경에서도 화상 강의 연결을 지원
 
           **2. EBS SW온라인 클래스 - COVID19 대응 TF**
           ---
@@ -250,7 +257,7 @@ content:
 
             고객 요청으로 수억건에 해당하는 로그 집계를 도와주는 자동화 프로그램 개발
             - 전략 : 버튼형식으로 누구든 통계를 뽑을수 있는 프로그램 개발
-            - **결과 : 통계 업무처리가 개발자의 영역을 벗어나게 되어 업무 집중 향상**
+            - 운영 담당자가 직접 로그 통계를 집계할 수 있도록 자동화
 
           **3. 거점국립대학 학점 교류 시스템(KERIS)**
           ---
@@ -281,7 +288,6 @@ content:
 
             multitenant 도입으로 효율적인 커넥션 관리를 위한 과정
             - 전략 : knex, cls, cache 를 이용하여 커넥션 타임을 설정하여 캐싱 관리.
-            - **결과 : kubernetes 의 수평적 확장성에 따른 리소스 절약 가능**
   - title: Portfolio
     layout: list
     content:
@@ -296,8 +302,8 @@ content:
           sLLM(llama) 모델을 이용한 대화형 모델 구현
 
           **상세 설명 :**
-          Window11 의 가상화 wsl 환경에서 llama + 언어모델을 이용한 대화형 모델 구현.
-          속도 개선을 위해 GPU 사용 하였으며 가벼운 테스트를 위해 mistral.gguf 모델 사용.
+          Windows 11의 WSL 환경에서 llama.cpp와 Mistral GGUF 모델을 이용해 대화형 애플리케이션을 구현했습니다.
+          GPU를 사용해 모델 추론을 실행했습니다.
 
 
           **Link :**
@@ -335,7 +341,7 @@ content:
           **상세 설명 :**
           자연어 처리(NLP) 작업의 일환으로, Word2Vec 모델을 사용하여 단어 임베딩을 생성, Skip-gram과 
           CBOW(Continuous Bag of Words) 알고리즘을 구현하여 대규모 텍스트 데이터로부터 단어 벡터를 학습하고
-          사용자 입력에 대한 데이터와 유사한 데이터를 코사인유사도를 통해 확인 가능.
+          입력과 유사한 단어를 코사인 유사도로 검색합니다.
 
           **Link :**
           - <a href="https://canyon-nickel-820.notion.site/javascript-word2vector-skip-gram-701bd2dcaa2443f094da59d598b321e1?pvs=74">[notion] skip-gram</a>
@@ -392,7 +398,7 @@ content:
           프로젝트마다 복잡한 디렉터리 구조를 파악하기 곤란한 상황에 태그, 날짜, 체크리스트 
           검색으로 파일이나 폴더에 보다 빨리 접근 하기위해 만들어진 프로젝트로 개인 업무향상
           을 위해 만든 프로그램이다. 
-          파일및 폴더를 lnk 복사 하여 원본파일의 위치, 파일명, 내용 변경에 영향을 받지 않는다.
+          Windows 바로가기(.lnk)로 원본 파일과 폴더에 접근합니다.
 
           **Link :**
           <a href="https://www.notion.so/8788e6ad16ce4a6c88971c906840c254?showMoveTo=true&saveParent=true">[notion] file manager</a>
@@ -420,36 +426,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **영진전문대학교 - 컴퓨터 정보계열**
           ---
-          <table>
-            <tr>
-              <th>년도</th> <th>학년</th> <th>학기</th> <th>신청학점</th> <th>취득학점</th> <th>교필</th> <th>교선</th> 
-              <th>전필</th> <th>전선</th>	<th>교직</th> <th>인접</th> <th>평점계</th> <th>평균평점</th> <th>점수계</th> <th>점수평균</th> 
-            </tr>
-            <tr>
-              <td>2016</td> <td>1</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>3</td> <td>0</td> <td>17</td> <td>0</td> <td>0</td> <td>76.00</td> <td>4.00</td> <td>1,762</td> <td>92.74</td>
-            </tr>
-            <tr>
-              <td>2016</td> <td>1</td> <td>2</td> <td>23</td> <td>23</td> <td>0</td> <td>3</td> <td>0</td> <td>20</td> <td>0</td> <td>0</td> <td>96.00</td> <td>4.36</td> <td>2,111</td> <td>95.95</td>
-            </tr>
-            <tr>
-              <td>2017</td> <td>2</td> <td>1</td> <td>24</td> <td>24</td> <td>1</td> <td>2</td> <td>0</td> <td>21</td> <td>0</td> <td>0</td> <td>91.50</td> <td>3.98</td> <td>2,096</td> <td>91.13</td>
-            </tr>
-            <tr>
-              <td>2017</td> <td>2</td> <td>2</td> <td>24</td> <td>24</td> <td>0</td> <td>2</td> <td>0</td> <td>22</td> <td>0</td> <td>0</td> <td>84.00</td> <td>3.50</td> <td>2,065</td> <td>86.04</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>1</td> <td>20</td> <td>20</td> <td>0</td> <td>2</td> <td>3</td> <td>15</td> <td>0</td> <td>0</td> <td>55.50</td> <td>2.92</td> <td>1,524</td> <td>80.21</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>2</td> <td>9 </td> <td>9	</td> <td>0</td> <td>0</td> <td>3</td> <td>6 </td> <td>0</td> <td>0</td> <td>33.00</td> <td>4.13</td> <td>739	 </td> <td>92.38</td>
-            </tr>
-            <tr>
-              <td>2018</td> <td>3</td> <td>3</td> <td>3 </td> <td>3	</td> <td>0</td> <td>0</td> <td>3</td> <td>0 </td> <td>0</td> <td>0</td> <td>0.00 </td> <td>0.00</td> <td>0	   </td> <td>0.00 </td>
-            </tr>
-            <tr>
-              <td>계</td> <td></td> <td></td> <td>123</td> <td>123</td> <td>1</td>	<td>12</td> <td>9</td> <td>101</td> <td>0</td> <td>0</td> <td>436</td> <td>3.79</td> <td>10,297</td> <td>89.54</td>
-            </tr>
-          </table>
+          총 취득 학점 123학점
 
       - layout: left
         title: 동아리
@@ -512,29 +489,7 @@ content:
           <h1>리눅스마스터 2급</h1>
           ---
           <img width="150px" height="220px" src="images/cert_linux_master.png">
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      저의 IT 커리어는 많은 고민 끝에 시작되었습니다. 처음에는 독학으로 프로그래밍을 배우기 시작했지만, 
-      생각처럼 결과물을 만들기 어려워 대학에 진학하게 되었습니다. 대학에서 첫 홈페이지를 만들면서, 
-      시간가는 줄 모르고 작업에 몰두하는 저 자신을 보며 이 길이 제 길이라는 확신을 가지게 되었습니다. 
-      그 이후로, **"개발은 0에서 시작하여 무엇이든 창조할 수 있다"**는 신념 아래 게임, 홈페이지, IoT 
-      등 다양한 프로젝트를 진행하며 개발자의 길을 걸어왔습니다.
 
-      첫 회사에서는 COVID-19에 대응하여 초중고 교육을 위한 "온라인 클래스" 프로젝트에 참여했습니다. 
-      이 프로젝트는 일 접속량이 100만이 넘는 대규모 프로젝트였고 이를 통해 설계, 구성, 트래픽관리, 
-      쿼리 최적화 등 다양한 각도에서 개발을 경험했습니다. 이 경험을 바탕으로 **MSA, Multitenant,
-      master-slave** 구조 등을 공부하고, 이를 새로운 프로젝트에 적용해보는 기회를 얻었습니다.
-
-      개발 과정에서 더 나은 방법을 찾고자 항상 노력하고 코드 리팩토링에 대해 자주 고민합니다. 
-      모르는 용어나 신기술에 민감하고 기존 프로젝트와 비교하는 습관이 있습니다. 시스템 구성도와 
-      프로젝트 설계에도 관심이 있으며 단축키, 유틸리티, 플러그인 등 주변 도구를 활용하여 업무의 
-      능률을 높이는 것을 좋아합니다. 필요에 따라 직접 애플리케이션을 개발하여 업무 처리속도를 
-      향상시키고, 이러한 마인드 덕분에 손이 빠르다는 평가를 자주 받습니다.
-
-      업무상 긍정적인 성격과 웃는 얼굴로 동료간 의견 수립에 거부감이 없고 가능/불가능에 연연하지 
-      않아 능력 범위 내에서 최선을 다합니다. 또한 책임감을 가지고 프로젝트에 대해 자주 고민하며
-      이를 통해 인정받는 것을 좋아합니다.
 
 # Footer
 footer_show_references: true
